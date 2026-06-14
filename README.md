@@ -1,4 +1,4 @@
-# WineScore 🍷
+# WineScore 
 
 Sistema de classificação de qualidade de vinhos tintos portugueses usando ensemble de modelos de Machine Learning. Combina KNN, Árvore de Decisão, Naive Bayes, SVM e Rede Neural para prever notas de 3 a 8 com base em características químicas.
 
